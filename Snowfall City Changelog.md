@@ -1,4 +1,3 @@
-
 0.1.19 (DAY 194)
 - snowballs picked up from snow poffs now scale appropriately to the player
 - started adding functionality to doors
