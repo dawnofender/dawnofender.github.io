@@ -2,6 +2,7 @@
 - there are 3 people who may already know where the thing i added is, and if any of them get it first it is rigged to self destruct and never come back via persistence you have been warned
 - this changelog is now loaded from github
 - fixed elevator lighting
+- i might be maintaining this world instead of cleaning my room
 
 0.1.19 (DAY 194)
 - snowballs picked up from snow poffs now scale appropriately to the player
