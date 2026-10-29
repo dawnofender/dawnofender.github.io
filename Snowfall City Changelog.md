@@ -1,6 +1,7 @@
 0.1.20 (DAY 197)
 - there are 3 people who may already know where the thing i added is, and if any of them get it first it is rigged to self destruct and never come back via persistence you have been warned
 - this changelog is now loaded from github
+	- updates now come with an in-world notification
 - fixed elevator lighting
 - i might be maintaining this world instead of cleaning my room
 
