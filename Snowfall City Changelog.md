@@ -1,6 +1,5 @@
 0.1.21 (DAY 198)
 - fixed the 'new!' notification reappearing on every join 
-- fixed the raycast not lining up with the ui panels in the lobby
 - minor lighting fixes
 
 0.1.20 (DAY 197)
