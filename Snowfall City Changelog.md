@@ -1,3 +1,10 @@
+0.1.22 (DAY 202)
+- automated collider component setup, some stuff may collide differently now, hopefully in a good way
+- fixed a long-standing issue where snowballs picked up from a snow poff freak out on remote clients until you drop them them (thanks ashley!)
+- fixed item from day 197 showing up for a couple frames every time someone joins
+- testing a fix for the elevator join trap
+- lightmap rebake (fixed some lighting artifacts on the rim of the fountain)
+
 0.1.21 (DAY 198)
 - fixed the 'new!' notification reappearing on every join 
 - minor lighting fixes
