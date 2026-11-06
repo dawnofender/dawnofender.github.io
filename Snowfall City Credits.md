@@ -18,7 +18,6 @@ Silent's Filamented
 Udon Portals - aurycat
 
 --- Special Thanks ---
-Aerlie
 AWOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Commander Keel
 emiwa (Lane)
