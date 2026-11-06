@@ -1,5 +1,6 @@
 0.1.23 (DAY 205)
 - re-added window parallax layers
+- fixed issue with snow poff snowballs where they would momentarily freeze for remote players after being thrown
 
 0.1.22 (DAY 202)
 - automated collider component setup, some stuff may collide differently now, hopefully in a good way
