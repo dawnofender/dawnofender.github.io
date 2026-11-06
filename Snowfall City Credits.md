@@ -18,16 +18,12 @@ Silent's Filamented
 Udon Portals - aurycat
 
 --- Special Thanks ---
-Аmber
 AWOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Commander Keel
-emiwa (Lane)
 gravesツ
 ItsEmrys
 KasumiisDead
 LilacLight
 MisterGerbelle
-Nova Gesicht
 Snowball
 TheZoinker
 Toby Fox
