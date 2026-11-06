@@ -1,4 +1,5 @@
 0.1.23 (DAY 205)
+- added full credits to lobby
 - re-added window parallax layers
 - fixed issue with snow poff snowballs where they would momentarily freeze for remote players after being thrown
 
