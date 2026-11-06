@@ -2,6 +2,7 @@
 - added full credits to lobby
 - re-added window parallax layers
 - fixed issue with snow poff snowballs where they would momentarily freeze for remote players after being thrown
+- fixed furniture collision issues that were interfering with cup & plate & fork & spoon
 
 0.1.22 (DAY 202)
 - automated collider component setup, some stuff may collide differently now, hopefully in a good way
