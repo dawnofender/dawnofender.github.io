@@ -5,8 +5,8 @@ matoumatio - ost
  
 ACiiL - priceless shader knowledge
 TheZiver - 3D assets (roses, original daily timer prefab)
--V I A- - 3D assets(Cup & Plate), contribution to ost
-٠winter٠ - models (Fork & Spoon), early ideas & testing
+-V I A- - 3D assets (Cup & Plate), contribution to ost
+٠winter٠ - 3D assets (Fork & Spoon), early ideas & testing
 
 FISH ＜＞＜ COMMUNITY - misc. assets, free testing, relentless criticism/suggestions
 
