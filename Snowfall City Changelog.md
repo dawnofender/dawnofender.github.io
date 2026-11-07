@@ -1,3 +1,6 @@
+0.1.24 (DAY 206)
+- added sound effects to doors
+
 0.1.23 (DAY 205)
 - added full credits to lobby
 - re-added window parallax layers
