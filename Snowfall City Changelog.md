@@ -4,7 +4,7 @@
 - fixed issue with snow poff snowballs where they would momentarily freeze for remote players after being thrown
 - fixed furniture collision issues that were interfering with cup & plate & fork & spoon
 - lightmap rebake
-	- fixed artifacts, somehow improved the issue with the dark wood platforms, antialiasing
+	- fixed artifacts, added artifacts, somehow improved the issue with the dark wood platforms, antialiasing, 
 
 0.1.22 (DAY 202)
 - automated collider component setup, some stuff may collide differently now, hopefully in a good way
