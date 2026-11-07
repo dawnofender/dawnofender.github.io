@@ -1,6 +1,7 @@
 0.1.24 (DAY 206)
 - added sound effects to doors
 - slightly improved window parallax visuals
+- maybe fixed gpu particle roll
 - collider fixes
 
 0.1.23 (DAY 205)
