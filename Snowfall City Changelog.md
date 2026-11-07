@@ -1,5 +1,7 @@
 0.1.24 (DAY 206)
 - added sound effects to doors
+- slightly improved window parallax visuals
+- collider fixes
 
 0.1.23 (DAY 205)
 - added full credits to lobby
