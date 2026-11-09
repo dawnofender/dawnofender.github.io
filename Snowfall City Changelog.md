@@ -1,3 +1,8 @@
+0.1.25 (DAY 207) 
+- more chimneys :)
+- lighting adjustments
+- door interaction can now be heard by remote players
+
 0.1.24 (DAY 206)
 - added sound effects to doors
 - slightly improved window parallax visuals
