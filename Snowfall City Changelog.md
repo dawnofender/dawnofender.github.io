@@ -1,3 +1,6 @@
+0.1.27 (DAY 212)
+- small patch that should allow you to safely use the chimney that scales you (maybe??? idk good luck)
+
 0.1.26 (DAY 211)
 - you can now drop objects through chimneys!
 - chimneys now scale the player when the linked chimneys are different sizes
