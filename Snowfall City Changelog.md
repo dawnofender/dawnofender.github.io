@@ -1,3 +1,13 @@
+0.1.26 (DAY 211)
+- you can now drop objects through chimneys!
+- chimneys now scale the player when the linked chimneys are different sizes
+	- velocity does not scale linearly, no i dont know why, yes this is a feature
+- fixed the issue where chimneys don't always preserve your momentum
+	- these chimney updates took me three whole days to get working right. blame vrchat
+- fixed some minor visual bugs
+	- no uvs on some of those rooftop lining stone things resulted in flat baked lighting
+	- z-fighting in the fountain circle thingies
+
 0.1.25 (DAY 207) 
 - more chimneys :)
 - lighting adjustments
