@@ -1,3 +1,8 @@
+0.1.28 (DAY 213)
+- footstep sounds!!!!
+  - added footstep sounds for snow, stone, wood
+  - tiny players get faster footsteps
+
 0.1.27 (DAY 212)
 - small patch that should allow you to safely use the chimney that scales you (maybe??? idk good luck)
 
