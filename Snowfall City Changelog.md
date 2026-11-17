@@ -1,3 +1,10 @@
+0.1.29 (DAY 215)
+bug fix day
+- fixed the snow crate items not being synced
+- made the snow crate items inherit the velocity of the crate when broken
+- fixed the snow factory not firing big snowballs at players
+- fixed compatibility between despawnable objects and smart object sync
+ 
 0.1.28 (DAY 213)
 - footstep sounds!!!!
   - added footstep sounds for snow, stone, wood
