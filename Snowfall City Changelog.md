@@ -5,6 +5,7 @@ bug fix day
 - fixed the snow factory not firing big snowballs at players
 - fixed the snow factory not firing big snowballs at players (it's like, 0.5% chance though)
 - fixed compatibility between despawnable objects and smart object sync
+- fixed the pickup outline shape of the handheld snowyinator
 
 0.1.28 (DAY 213)
 - footstep sounds!!!!
