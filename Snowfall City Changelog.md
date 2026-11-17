@@ -2,7 +2,7 @@
 bug fix day
 - fixed the snow crate items not being synced
 - made the snow crate items inherit the velocity of the crate when broken
-- fixed the snow factory not firing big snowballs at players
+- fixed the snow factory not firing big snowballs at players (it's like, 0.5% chance though)
 - fixed compatibility between despawnable objects and smart object sync
  
 0.1.28 (DAY 213)
