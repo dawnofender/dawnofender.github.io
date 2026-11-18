@@ -1,3 +1,6 @@
+0.1.30 (DAY 216)
+- fixed the handheld snowyinator snowballs not exploding (and possibly other untracked issues, this was one of several related build errors)
+
 0.1.29 (DAY 215)
 bug fix day
 - fixed the snow crate items not being synced
